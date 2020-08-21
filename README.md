@@ -1,1 +1,1 @@
-# springcloud-config 配置中心
+# com.atguigu.springcloud-config 配置中心
